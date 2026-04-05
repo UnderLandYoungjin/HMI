@@ -70,7 +70,8 @@ PLC의XBL-EMTA의 IP설정
 ---
 
 # 흐름알람
-<img width="1907" height="802" alt="image" src="https://github.com/user-attachments/assets/0fd92c4d-9d46-41f6-9dda-f5cd104a6edf" />
+<img width="1904" height="1070" alt="image" src="https://github.com/user-attachments/assets/be1f0607-ebe0-4760-a252-b412e16c37b9" />
+
 
 <img width="1919" height="893" alt="image" src="https://github.com/user-attachments/assets/82bfca58-0905-4eb8-8b09-a7023e64bacd" />
 

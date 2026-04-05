@@ -1,6 +1,8 @@
 # HMI
 
 
+
+## 영상
 https://github.com/user-attachments/assets/f869ab8d-2736-4cc7-8569-f69f131b989e
 
 

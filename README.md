@@ -66,3 +66,15 @@ PLC의XBL-EMTA의 IP설정
 <img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/5992b3ed-e73d-4844-9b45-2eb976a24109" />
 <img width="1912" height="1014" alt="image" src="https://github.com/user-attachments/assets/f8de41b3-c00d-4072-97de-d367819e8a26" />
 
+
+---
+
+# 흐름알람
+<img width="1907" height="802" alt="image" src="https://github.com/user-attachments/assets/0fd92c4d-9d46-41f6-9dda-f5cd104a6edf" />
+
+<img width="1919" height="893" alt="image" src="https://github.com/user-attachments/assets/82bfca58-0905-4eb8-8b09-a7023e64bacd" />
+
+
+<img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/9e797abc-76b7-4ef8-a4b8-7f316b48cfc9" />
+
+

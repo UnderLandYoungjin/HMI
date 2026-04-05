@@ -44,5 +44,17 @@ PLC의XBL-EMTA의 IP설정
 <img width="1416" height="841" alt="image" src="https://github.com/user-attachments/assets/baaaead4-03e6-47bc-b42e-982ef75c6ba7" />
 
 
+----
+
+--
+
+# HMI 내에서 화면전환
+
+번호를 먼저 써줘야함
+<img width="1913" height="1021" alt="image" src="https://github.com/user-attachments/assets/a369d57f-c9dd-4468-bb6b-33d33f688c36" />
+
+<img width="1913" height="1021" alt="image" src="https://github.com/user-attachments/assets/f4a29800-1ad5-4b54-b8f4-c16612ac4370" />
+
+
 
 

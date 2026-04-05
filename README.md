@@ -79,4 +79,5 @@ PLC의XBL-EMTA의 IP설정
 <img width="1901" height="980" alt="image" src="https://github.com/user-attachments/assets/60aee1cc-1d1c-4a46-b170-36f18e3edc15" />
 <img width="1897" height="948" alt="image" src="https://github.com/user-attachments/assets/0a40b837-c080-42f2-ae77-9321339877ae" />
 
+<img width="1902" height="732" alt="image" src="https://github.com/user-attachments/assets/8968fe63-8982-4e04-bae3-b9a70c5b42ed" />
 

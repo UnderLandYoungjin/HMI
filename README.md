@@ -29,6 +29,15 @@ PLC의XBL-EMTA의 IP설정
 
 
 비트 스위치와 비트 램프 디아비스 번호를 일체 시켜 주면 비트 스위치 눌렀을때 비트 램프가 동작됨
+<img width="1907" height="728" alt="제목 없음" src="https://github.com/user-attachments/assets/7bf6fec6-1481-4bc6-8754-cafb18a627da" />
 
 
 <img width="1912" height="1024" alt="image" src="https://github.com/user-attachments/assets/8f131095-bc1b-46d1-8296-ca7ff9165b1b" />
+
+
+
+---
+
+# 인버터의 값을 불러와서 HMI에 표기하는 방법
+
+

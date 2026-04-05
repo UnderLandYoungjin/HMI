@@ -60,3 +60,8 @@ PLC의XBL-EMTA의 IP설정
 ---
 <img width="1914" height="1015" alt="image" src="https://github.com/user-attachments/assets/0294a4da-b287-4080-b65a-1920326b0e65" />
 
+
+피연산자 기준 조건 설정
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/5992b3ed-e73d-4844-9b45-2eb976a24109" />
+<img width="1912" height="1014" alt="image" src="https://github.com/user-attachments/assets/f8de41b3-c00d-4072-97de-d367819e8a26" />
+

@@ -10,6 +10,10 @@ HMI내부 디바이스는 HMI 내부에서만 쓸수있다. es) HX , HW등등
 <img width="1904" height="993" alt="image" src="https://github.com/user-attachments/assets/7a4d4bdf-c259-4930-8a9d-8a39a5e02bac" />
 
 
+PLC의XBL-EMTA의 IP설정
+<img width="1918" height="1067" alt="image" src="https://github.com/user-attachments/assets/6604c47e-ac7a-4a7f-aa22-878efad9c8e5" />
+
+
 
 <img width="1906" height="1079" alt="image" src="https://github.com/user-attachments/assets/db37e99e-efd2-45cc-b66c-f92bc911bd40" />
 

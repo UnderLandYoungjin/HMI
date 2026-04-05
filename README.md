@@ -39,5 +39,6 @@ PLC의XBL-EMTA의 IP설정
 ---
 
 # 인버터의 값을 불러와서 HMI에 표기하는 방법
+<img width="1907" height="728" alt="제목 없음" src="https://github.com/user-attachments/assets/0b792c9b-119a-4cdb-8c21-c2f7e5ed720f" />
 
 

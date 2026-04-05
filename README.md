@@ -1,4 +1,12 @@
 # HMI
+
+
+https://github.com/user-attachments/assets/f869ab8d-2736-4cc7-8569-f69f131b989e
+
+
+
+
+
 HMI
 
 <img width="1021" height="688" alt="image" src="https://github.com/user-attachments/assets/c4df6835-de06-44c8-b4e0-990f8c9e374c" />

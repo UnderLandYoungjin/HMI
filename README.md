@@ -13,3 +13,6 @@ HMI내부 디바이스는 HMI 내부에서만 쓸수있다. es) HX , HW등등
 
 
 비트 스위치와 비트 램프 디아비스 번호를 일체 시켜 주면 비트 스위치 눌렀을때 비트 램프가 동작됨
+
+
+<img width="1912" height="1024" alt="image" src="https://github.com/user-attachments/assets/8f131095-bc1b-46d1-8296-ca7ff9165b1b" />

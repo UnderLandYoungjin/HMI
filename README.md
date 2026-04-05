@@ -82,3 +82,30 @@ PLC의XBL-EMTA의 IP설정
 
 <img width="1902" height="732" alt="image" src="https://github.com/user-attachments/assets/8968fe63-8982-4e04-bae3-b9a70c5b42ed" />
 
+
+---
+# 이력알람
+<img width="1906" height="772" alt="image" src="https://github.com/user-attachments/assets/9d365b3f-c3ae-44f1-b7f0-8cf03ac31b25" />
+
+<img width="1909" height="887" alt="image" src="https://github.com/user-attachments/assets/0092775f-02e5-45cf-9653-cf97e5d47836" />
+<img width="1917" height="850" alt="image" src="https://github.com/user-attachments/assets/3b95d472-1a77-4310-b078-ca4da4e9787b" />
+
+
+<img width="1913" height="818" alt="image" src="https://github.com/user-attachments/assets/59e7fa16-3506-409a-b108-c1cfa5365b32" />
+
+
+<img width="1917" height="990" alt="image" src="https://github.com/user-attachments/assets/35a024d5-729f-4d04-82f5-f5ff79a61797" />
+
+<img width="1911" height="949" alt="image" src="https://github.com/user-attachments/assets/9b85608d-8583-4cf6-b19b-e7dd2998e3b8" />
+
+<img width="1918" height="983" alt="image" src="https://github.com/user-attachments/assets/eda17c48-e220-4eed-b6cd-b348c9699872" />
+
+<img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/733da2cf-9124-421c-8896-533a871a723d" />
+
+<img width="1910" height="999" alt="image" src="https://github.com/user-attachments/assets/f0c75224-288b-4c7e-83e4-6c04ab8bc8e5" />
+
+<img width="1909" height="996" alt="image" src="https://github.com/user-attachments/assets/c0fa90ce-2aff-4e18-bea8-860b7ba28abf" />
+
+<img width="1918" height="985" alt="image" src="https://github.com/user-attachments/assets/87b17ff3-892a-4519-818d-4120e5ccd8ca" />
+
+

@@ -1,4 +1,5 @@
 # HMI
+<img width="1012" height="604" alt="image" src="https://github.com/user-attachments/assets/30843b69-08de-4263-aee8-47d1d6b8e729" />
 
 
 

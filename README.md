@@ -6,6 +6,8 @@ HMI
 
 HMI내부 디바이스는 HMI 내부에서만 쓸수있다. es) HX , HW등등
 
+상세 설정에서 아이피주소 확인해야한다.
+<img width="1904" height="993" alt="image" src="https://github.com/user-attachments/assets/7a4d4bdf-c259-4930-8a9d-8a39a5e02bac" />
 
 
 
